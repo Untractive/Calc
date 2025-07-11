@@ -65,3 +65,12 @@ input{
     
     color: yellowgreen;
    }
+.logo {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
+.logo sup {
+  font-size: 12px;
+  vertical-align: top;
+}
